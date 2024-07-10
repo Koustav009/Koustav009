@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koustav009&label=Profile%20views&color=0e75b6&style=flat" alt="koustav009" /> </p>
 
-- 🌱 I’m currently learning **PhP, Laravel , PostgresQl, Laragon**
+- 🌱 I’m currently learning **PhP, Laravel , PostgreSQl, Laragon**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/koustav009](https://linktr.ee/koustav009)
 
