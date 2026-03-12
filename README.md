@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koustav009&label=Profile%20views&color=0e75b6&style=flat" alt="koustav009" /> </p>
 
-- 🌱 I’m currently learning **Java, JSP, Spring Boot,**
+- 🌱 I’m currently learning **Java, Spring Boot, Flutter**
 
 - 👨‍💻 All of my Links are available at [https://linktr.ee/koustav009](https://linktr.ee/koustav009)
 
-- 💬 Ask me about **Python , Java**
+- 💬 Ask me about **Flutter , Java**
 
 - 📫 How to reach me **manna98.koustav@gmail.com**
 
